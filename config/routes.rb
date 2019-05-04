@@ -1,2 +1,3 @@
 Rails.application.routes.draw do
-resources :students, :classrooms end
+  resources :students, :classrooms
+end
